@@ -2,7 +2,7 @@
 Analyzing customer churn for a subscription-based streaming service
 # Project Background
 StreamLinx is a company established in 2016. It offers streaming service for Movies via its Website and Mobile App. The company collects vasts amount of data ranging from sales, product offerings, marketing efforts and operational efficicency. This project analyzes and sythensizes the subscription data with the main focus on reducing churn of customers to ensure the success of StreamLinx together with developing proactive retention strategies, personalized engagement tactics, and improved service offerings.
-## Insights and Recommedations are provides from the follwoing key areas:
+## Insights and Recommendations are provides from the following key areas:
 - Subscriber Trend Analysis: Analyze historical subscriber data to identify patterns and trends related to churn.
 - Factors Leading to Churn:  Determine key factors influencing customer churn decisions.
 - Customer Segmentation: Create customer segments based on churn risk profiles.
@@ -27,3 +27,4 @@ Auto_Renew_Enabled	Whether automatic renewal is enabled (Yes/No)	Binary
 Last_Login_Date	Date of the user's most recent activity	Date
 Number_of_Devices	Count of devices linked to the account	Numeric
 # Executive Summary
+## Overview and Summary
